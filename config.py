@@ -1,0 +1,6 @@
+THINGSPEAK_WRITE_API_KEY = "Your API KEY"
+THINGSPEAK_THINGHTTP_API_KEY = ""
+
+THINGSPEAK_URL = "https://api.thingspeak.com/update"
+
+UPDATE_INTERVAL = 20
